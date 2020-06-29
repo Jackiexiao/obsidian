@@ -1,16 +1,25 @@
 # obsidian中文帮助手册
-obsidian中文帮助手册由社群成员Leon，Linpean，Jackiexiao，蚕子等共同翻译。
-
-本文内容由社区成员贡献。
+obsidian中文帮助手册&本文由社区成员贡献。目前暂未校对，欢迎PR或在[issue](https://github.com/Jackiexiao/obsidian/issues)中反馈。
 
 ### 如何使用帮助文档？
-点击clone下载后或[这里](https://github.com/Jackiexiao/obsidian/archive/master.zip)，用obsidian打开（在设置按钮的上方`Open another vault`）即可。
+点击右上方`clone`下载或[这里](https://github.com/Jackiexiao/obsidian/archive/master.zip)，用obsidian打开即可（在设置按钮的上方`Open another vault`）。
 
+### 相关
 * 中文交流Q群774176839，群文件中有obsidian汉化包
-* [官网、下载地址](https://link.zhihu.com/?target=https%3A//obsidian.md/)
+* [obsidian官网、软件下载地址](https://link.zhihu.com/?target=https%3A//obsidian.md/)
 * [英文社区/论坛/聊天室](https://link.zhihu.com/?target=https%3A//obsidian.md/community)
 * [支持开发者](https://link.zhihu.com/?target=https%3A//obsidian.md/pricing)
-* [图谱/双向链接软件大全](https://link.zhihu.com/?target=https%3A//www.notion.so/Artificial-Brain-Networked-notebook-app-a131b468fc6f43218fb8105430304709)
+* [图谱/双向链接软件/应用大全](https://link.zhihu.com/?target=https%3A//www.notion.so/Artificial-Brain-Networked-notebook-app-a131b468fc6f43218fb8105430304709)
+
+### 贡献者
+*更新存在延迟*
+
+参与者|联系方式
+--|--
+蚕子|QQ:312815311
+Leon  |QQ873663674
+Linpean|QQ1107099465
+Jackiexiao|QQ707610215
 
 # 快速入门 
 
@@ -23,13 +32,12 @@ obsidian中文帮助手册由社群成员Leon，Linpean，Jackiexiao，蚕子等
 
 ### obsidian很棒！我要如何学习使用它？
 
-推荐方法：看英文的使用手册（在[下载obsidian](https://obsidian.md)之后，可以通过左下角的问号`?`标识打开手册）
+* 推荐方法：看英文的使用手册（在[下载obsidian](https://obsidian.md)之后，可以通过左下角的问号`?`标识打开手册）
 
-1. 看教学视频
-
-* [https://youtu.be/gfAwa6wJqwA](https://youtu.be/gfAwa6wJqwA)
-* [https://www.bilibili.com/video/BV1gK4y147M6](https://www.bilibili.com/video/BV1gK4y147M6)
-* [https://www.bilibili.com/video/BV1xK4y147yJ](https://www.bilibili.com/video/BV1xK4y147yJ)
+* 看教学视频
+  * [https://youtu.be/gfAwa6wJqwA](https://youtu.be/gfAwa6wJqwA)
+  * [https://www.bilibili.com/video/BV1gK4y147M6](https://www.bilibili.com/video/BV1gK4y147M6)
+  * [https://www.bilibili.com/video/BV1xK4y147yJ](https://www.bilibili.com/video/BV1xK4y147yJ)
 
 ### 重新考虑用obsidian?
 
@@ -131,6 +139,9 @@ ps：obsidian的作者也是大纲软件dynalist的开发人员
 1. 还可以用相对路径，比如[[../方法论]]，指的是上一级目录里的“方法论”page
 1. 还可以链接到本地的 [文件](file:///d:/docs/excel/body.csv) ，点击可以使用系统的应用启动该文件，不过0.7.3版本中，路径中不能有中文（开发者回应正在解决）。此外，路径中的空格要用“%20”替换。
 1. 前面加感叹号  `![[主题]]` 即可在预览preview中看到引用的内容
+
+### quicker与obsidian
+如果你有一些进阶操作需求或熟悉quicker，可使用社区成员的[quicker动作库](https://getquicker.net/Share/Actions?exe=obsidian.exe)
 
 # 知识管理方法论
 
