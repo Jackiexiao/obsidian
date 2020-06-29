@@ -3,7 +3,8 @@ obsidian中文帮助手册由社群成员Leon，Linpean，Jackiexiao，蚕子等
 
 本文内容由社区成员贡献。
 
-如何使用帮助文档？在github release页面下载后，用obsidian打开即可。
+### 如何使用帮助文档？
+点击clone下载后或[这里](https://github.com/Jackiexiao/obsidian/archive/master.zip)，用obsidian打开（在设置按钮的上方`Open another vault`）即可。
 
 * 中文交流Q群774176839，群文件中有obsidian汉化包
 * [官网、下载地址](https://link.zhihu.com/?target=https%3A//obsidian.md/)
