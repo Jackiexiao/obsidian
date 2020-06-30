@@ -84,7 +84,7 @@ Jackiexiao|QQ707610215
 
 **缺点(v0.7.3版本)**
 
-  * 不支持[[大纲]]，但支持折迭（根据标题以及缩进）
+  * 不支持[[大纲]]，但支持折叠（根据标题以及缩进）
     * 操作方法：通过设置，修改成支持”标题/缩进"的折迭。但预览preview中不支持，此外也没有记忆折迭（后面的版本会修复）。
   * 非云同步，需要借助dropbox git google drvie 坚果云之类
   * 无移动端/手机端
@@ -125,7 +125,7 @@ Jackiexiao|QQ707610215
 
 因为不需要大纲的人也有很多，obsidian基于markdown的文件格式难以实现，要改动底层代码（每一行当做一块处理）
 
-不过obsidian支持[折](https://shimo.im/docs/H83hqTp9X9KqptVc#anchor-vRMQ)[迭](https://shimo.im/docs/H83hqTp9X9KqptVc#anchor-vRMQ)功能，可以解决部分需求
+不过obsidian支持按标题、缩进进行折叠功能，可以解决部分需求
 
 ps：obsidian的作者也是大纲软件dynalist的开发人员
 
@@ -180,6 +180,14 @@ ps：obsidian的作者也是大纲软件dynalist的开发人员
 
   * [如何管理信息：P.A.R.A. 是什么及在 Notion 中的应用](https://mp.weixin.qq.com/s?__biz=MzAwOTUwNzI1Ng==&mid=2247483812&idx=1&sn=89414301b153d6165eb7feea9df1207b&chksm=9b5fd973ac285065f3a5308e0316307c816cca83535c765ab4b4a79b81e5cf6754e332dcf4ff&mpshare=1&scene=1&srcid=&sharer_sharetime=1591185871912&sharer_shareid=48387c294460ce9f025e4d1b2410155b&key=4b19ec3f0bdf89b5676b1fba422dd392a3d0dde3cb9345e70e3ffa387bda8a7ee43e1303d999f20a21289f8e6a97387d07f4cb68f8543679573c89751a966fb21c3f65da5aef7ad2e5ebe4c3a9667183&ascene=1&uin=MTM3MzQxNTcwMQ%3D%3D&devicetype=Windows+10+x64&version=62090070&lang=zh_CN&exportkey=Accu5yydsSknJ1Paf9dhTFA%3D&pass_ticket=RlK%2FIypGT1nB8oxcoayEAypJXKli9T812rNsS2DlbUMik1ofjwb5a7z099KeXoz8)
   * [P.A.R.A设计理念](https://www.notion.so/e0781dd14e87452eb8484ecc5f5636a9)
+
+
+
+
+
+
+
+
 
 
 
