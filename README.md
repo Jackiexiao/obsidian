@@ -21,6 +21,8 @@ obsidian中文帮助手册&本文由社区成员贡献。目前暂未校对，�
     - [为什么不支持[[大纲]]？](#为什么不支持大纲)
     - [为什么不做云同步？](#为什么不做云同步)
     - [markdown转pdf？](#markdown转pdf)
+    - [分享obsidian给他人](#分享obsidian给他人)
+    - [剪藏？](#剪藏)
 - [Obsidian进阶指南 / 使用技巧](#obsidian进阶指南--使用技巧)
     - [常见技巧](#常见技巧)
     - [link链接的高级用法](#link链接的高级用法)
@@ -141,6 +143,18 @@ ps：obsidian的作者也是大纲软件dynalist的开发人员
 
 2. 使用一些zk笔记软件，例如[zettlr](https://www.zettlr.com/)，里面内置了Pandoc程序。
 
+### 分享obsidian给他人
+目前obsidian不支持分享，只能曲线救国了。
+
+听别人说的方案：jekyll+github page转换成静态网页
+由于需要一点编程基础，个人仅建议技术人员使用
+
+### 剪藏？
+obsidian目前没有官方支持的剪藏插件，复制的超链接文本粘贴时也会丢失超链接
+
+曲线救国：
+使用[webclipper浏览器剪藏插件](https://github.com/webclipper/web-clipper)，可以剪藏保存为markdown文件，同时该剪藏插件也支持：语雀、notion、有道、onenote、滴答清单等等。
+
 # Obsidian进阶指南 / 使用技巧
 
 ### 常见技巧
@@ -180,6 +194,24 @@ ps：obsidian的作者也是大纲软件dynalist的开发人员
 
   * [如何管理信息：P.A.R.A. 是什么及在 Notion 中的应用](https://mp.weixin.qq.com/s?__biz=MzAwOTUwNzI1Ng==&mid=2247483812&idx=1&sn=89414301b153d6165eb7feea9df1207b&chksm=9b5fd973ac285065f3a5308e0316307c816cca83535c765ab4b4a79b81e5cf6754e332dcf4ff&mpshare=1&scene=1&srcid=&sharer_sharetime=1591185871912&sharer_shareid=48387c294460ce9f025e4d1b2410155b&key=4b19ec3f0bdf89b5676b1fba422dd392a3d0dde3cb9345e70e3ffa387bda8a7ee43e1303d999f20a21289f8e6a97387d07f4cb68f8543679573c89751a966fb21c3f65da5aef7ad2e5ebe4c3a9667183&ascene=1&uin=MTM3MzQxNTcwMQ%3D%3D&devicetype=Windows+10+x64&version=62090070&lang=zh_CN&exportkey=Accu5yydsSknJ1Paf9dhTFA%3D&pass_ticket=RlK%2FIypGT1nB8oxcoayEAypJXKli9T812rNsS2DlbUMik1ofjwb5a7z099KeXoz8)
   * [P.A.R.A设计理念](https://www.notion.so/e0781dd14e87452eb8484ecc5f5636a9)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
