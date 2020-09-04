@@ -7,7 +7,9 @@ obsidian中文帮助手册&本文由社区成员贡献。目前暂未校对，�
 
 如果你想通过网页分享给别人，可以点击[这里:帮助文档web](https://jackiegeek.gitee.io/obsidian/)，不过有点bug。
 
-**参与协作**：帮助文档的更新离不开每个热心的志愿者！成为我们的一员吧！请点击[这里加入协作](https://github.com/Jackiexiao/obsidian/issues/6)
+**参与协作**
+
+帮助文档的更新离不开每个热心的志愿者！成为我们的一员吧！请点击这里[**加入协作**](https://github.com/Jackiexiao/obsidian/issues/6)
 
 # 目录 <!-- omit in toc --> 
 - [相关链接](#相关链接)
