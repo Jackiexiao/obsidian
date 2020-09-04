@@ -11,6 +11,8 @@ obsidian中文帮助手册&本文由社区成员贡献。目前暂未校对，�
 
 帮助文档的更新离不开每个热心的志愿者！成为我们的一员吧！请点击这里[**加入协作**](https://github.com/Jackiexiao/obsidian/issues/6)
 
+Obsidian中文交流Q群：774176839
+
 # 目录 <!-- omit in toc --> 
 - [相关链接](#相关链接)
   - [贡献者](#贡献者)
