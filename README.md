@@ -3,9 +3,9 @@ obsidian中文帮助手册&本文由社区成员贡献。目前暂未校对，�
 
 **如何使用帮助文档？**
 
-点击右上方`clone`下载或[这里下载](https://github.com/Jackiexiao/obsidian/archive/master.zip)，用obsidian打开即可（在设置按钮的上方`Open another vault`）。
-
-如果你想通过网页分享给别人，可以点击[这里:帮助文档web](https://jackiegeek.gitee.io/obsidian/)，不过有点bug。
+* 方式1：使用obsidian打开（推荐）。点击右上方`clone`下载或[这里下载](https://github.com/Jackiexiao/obsidian/archive/master.zip)，用obsidian打开即可（在设置按钮的上方`Open another vault`）。
+* 方式2：[查看网页版帮助文档](https://jackiegeek.gitee.io/obsidian-docs/zh/Obsidian/)
+* 如果你发现文档有些过时了，请访问[最新官方文档的仓库](https://github.com/obsidianmd/obsidian-docs)
 
 **参与协作**
 
