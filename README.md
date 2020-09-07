@@ -7,9 +7,7 @@ obsidian中文帮助手册&本文由社区成员贡献。目前暂未校对，�
 * 方式2：[查看网页版帮助文档](https://jackiegeek.gitee.io/obsidian-docs/zh/Obsidian/)
 * 如果你发现文档有些过时了，请访问[最新官方文档的仓库](https://github.com/obsidianmd/obsidian-docs)
 
-**参与协作**
 
-帮助文档的更新离不开每个热心的志愿者！成为我们的一员吧！请点击这里[**加入协作**](https://github.com/Jackiexiao/obsidian/issues/6)
 
 Obsidian中文交流Q群：774176839
 
