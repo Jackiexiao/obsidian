@@ -1,5 +1,8 @@
+# 停止维护，现在已有官方帮助文档web版，请访问：https://publish.obsidian.md/help/index
+
 # obsidian中文帮助手册 <!-- omit in toc --> 
 obsidian中文帮助手册&本文由社区成员贡献。目前暂未校对，欢迎PR或在[issue](https://github.com/Jackiexiao/obsidian/issues)中反馈。
+
 
 **如何使用帮助文档？**
 
