@@ -1,4 +1,6 @@
-# 停止维护，现在已有官方帮助文档web版，请访问：https://publish.obsidian.md/help/index
+# 现在已有官方帮助文档web版，请访问
+* 英文：https://publish.obsidian.md/help/index 
+* 或者不常更新的版本：https://github.com/obsidianmd/obsidian-docs/tree/master/zh
 
 # obsidian中文帮助手册 <!-- omit in toc --> 
 obsidian中文帮助手册&本文由社区成员贡献。目前暂未校对，欢迎PR或在[issue](https://github.com/Jackiexiao/obsidian/issues)中反馈。
