@@ -1,4 +1,5 @@
-# 现在已有官方英文帮助文档web版，请访问
+### [点击这里进入Obsidian中文论坛](https://github.com/obsidianzh/forum/discussions)
+现在已有官方英文帮助文档web版，请访问
 * 英文：https://publish.obsidian.md/help/index 
 * 或者这个不常更新的版本（@jackiexiao 计划在obsidian 1.0版本更新帮助文档）https://jackiegeek.gitee.io/obsidian-docs/zh/Obsidian/
 
